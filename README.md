@@ -1,2 +1,2 @@
-# opencv1
-face detection
+# opencv Face detection
+face detection with open cv and python
