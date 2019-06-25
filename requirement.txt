@@ -1,1 +1,1 @@
-1- install python2- install with pip :     pip install opencv-python    3- run :     python  cv.py
+opencv-python
